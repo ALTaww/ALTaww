@@ -1,4 +1,10 @@
 # 💫 About Me:
+Good day to all!<br>I am a junior frontend developer. Always open to conversation and cooperation.
+
+```
+console.log('Hello World!');
+```
+
 Всем доброго времени суток!<br>Я junior frontend-разработчик. Всегда открыт к разговору и сотрудничеству.
 
 
